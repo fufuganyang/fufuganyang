@@ -67,13 +67,13 @@ I'm a passionate developer from Indonesia who loves turning complex ideas into c
 ## 📬 Let's Connect
 
 <div align="center">
-  <a href="https://t.me/polsekjaktim">
+  <a href="https://t.me/jsobfuscator">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1A1A1A" alt="Telegram" />
   </a>
   <a href="https://github.com/fufuganyang">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:cswhatsapp@rommiui.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" alt="Email" />
   </a>
   <a href="https://open.spotify.com/user/317vkncp7dluw7qgoov35zrl2avy">
